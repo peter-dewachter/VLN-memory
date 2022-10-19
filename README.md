@@ -5,3 +5,4 @@ Code for my Master's Thesis "Sequence-to-Sequence with dedicated Memory Networks
 This is an extension of the R2R agent proposed by Pete Anderson. Installation instructions are found in his original repo.
 https://github.com/peteanderson80/Matterport3DSimulator
 
+DNC code is adjusted from https://github.com/ixaxaar/pytorch-dnc
